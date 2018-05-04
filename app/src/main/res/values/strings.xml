@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Mengenal Buah</string>
+    <string name="title_activity_detail_buah">DetailBuah</string>
+    <string name="action_settings">Settings</string>
+    <string name="apel">
+        Apel adalah jenis buah-buahan, atau buah yang dihasilkan dari pohon buah apel. Buah apel biasanya berwarna merah kulitnya jika masak dan (siap dimakan), namun bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek, daging buahnya keras
+    </string>
+    <string name="jambuair">
+        Jambu air adalah tumbuhan dalam suku jambu-jambuan atau Myrtaceae yang berasal dari Asia Tenggara. Jambu air sebetulnya berbeda dengan jambu semarang (Syzygium samarangense), kerabat dekatnya yang memiliki pohon dan buah hampir serupa. Beberapa kultivarnya bahkan sukar dibedakan, sehingga kedua-duanya kerap dinamai dengan nama umum jambu air atau jambu saja. Jambu air mudah ditanam dan di budidaya
+    </string>
+    <string name="manggis">
+        Manggis (Garcinia mangostana L.) adalah sejenis pohon hijau abadi dari daerah tropika yang diyakini berasal dari Kepulauan Nusantara. Tumbuh hingga mencapai 7 sampai 25 meter. Buahnya juga disebut manggis, berwarna merah keunguan ketika matang, meskipun ada pula varian yang kulitnya berwarna merah. Buah manggis dalam perdagangan dikenal sebagai "ratu buah", sebagai pasangan durian, si "raja buah". Buah ini mengandung mempunyai aktivitas antiinflamasi dan antioksidan. Sehingga di luar negeri buah manggis dikenal sebagai buah yang memiliki kadar antioksidan tertinggi di dunia.
+    </string>
+    <string name="durian">
+        Durian adalah nama tumbuhan tropis yang berasal dari wilayah Asia Tenggara, sekaligus nama buahnya yang bisa dimakan. Nama ini diambil dari ciri khas kulit buahnya yang keras dan berlekuk-lekuk tajam sehingga menyerupai duri. Sebutan populernya adalah "raja dari segala buah" (King of Fruit). Durian adalah buah yang kontroversial, meskipun banyak orang yang menyukainya, namun sebagian yang lain malah muak dengan aromanya "\n\n"
+        Sesungguhnya, tumbuhan dengan nama durian bukanlah spesies tunggal tetapi sekelompok tumbuhan dari marga Durio.[1] Namun, yang dimaksud dengan durian (tanpa imbuhan apa-apa) biasanya adalah Durio zibethinus. Jenis-jenis durian lain yang dapat dimakan dan kadangkala ditemukan di pasar tempatan di Asia Tenggara di antaranya adalah lai (D. kutejensis), kerantungan (D. oxleyanus), durian kura-kura atau kekura (D. graveolens), serta lahung (D. dulcis). Untuk selanjutnya, uraian di bawah ini mengacu kepada D. zibethinus.
+    </string>
+    <string name="ceri">
+        Ceri adalah kelompok tumbuhan maupun buahnya anggota marga Prunus. Ceri tidak mencakup satu jenis saja, tetapi ada beberapa, seperti P. cerasus, P. avium, dan P. emarginata. "\n\n"
+        Ceri adalah pohon yang sangat disukai di Jepang dan bunganya disebut sakura. Pada awal musim semi, di saat bunga ceri bermekaran, orang-orang berpiknik di taman-taman yang ditumbuhi pohon ini. Di Australia ceri biasanya matang sekitar waktu Natal, sedangkan di Amerika dan Eropa selatan pada bulan Juni. Produksi di seluruh dunia saat ini tiga juta ton per tahun. Selain itu bunga dan buah ceri juga dijadikan hiasan hidangan makanan atau minuman. Buah ceri mengandung antosianin, yaitu pigmen warna merah yang baik untuk kesehatan karena merupakan antioksidan. Selain itu, rutin mengkonsumsi buah ceri setiap hari dapat menurunkan jumlah kadar asam urat dalam tubuh, bahkan dapat menyembuhkan pirai
+    </string>
+    <string name="alpukat">
+        Apokat (KBBI: Avokad), avokad, atau Persea americana ialah tumbuhan penghasil buah meja dengan nama sama. Tumbuhan ini berasal dari Meksiko dan Amerika Tengah dan kini banyak dibudidayakan di Amerika Selatan dan Amerika Tengah sebagai tanaman perkebunan monokultur dan sebagai tanaman pekarangan di daerah-daerah tropika lainnya di dunia "\n\n"
+        Pohon, dengan batang mencapai tinggi 20 m dengan daun sepanjang 12 hingga 25 cm. Bunganya tersembunyi dengan warna hijau kekuningan dan ukuran 5 hingga 10 milimeter. Ukurannya bervariasi dari 7 hingga 20 sentimeter, dengan massa 100 hingga 1000 gram; biji yang besar, 5 hingga 6,4 sentimeter "\n\n"
+        Buahnya bertipe buni, memiliki kulit lembut tak rata berwarna hijau tua hingga ungu kecoklatan, tergantung pada varietasnya. Daging buah apokat berwarna hijau muda dekat kulit dan kuning muda dekat biji, dengan tekstur lembut
+    </string>
+    <string name="strawberry">
+        banyak dikenal di dunia. Seperti spesies lain dalam genus Fragaria (stroberi), buah ini berada dalam keluarga Rosaceae. Secara umum buah ini bukanlah buah, melainkan buah palsu, artinya daging buahnya tidak berasal dari ovari tanaman (achenium) tetapi dari bagian bawah hypanthium yang berbentuk mangkok tempat ovari tanaman itu berada. "\n\n"
+        Buah stroberi berwarna hijau keputihan ketika sedang berkembang, dan pada kebanyakan spesies berubah menjadi merah ketika masak. Namanya berasal dari bahasa Inggris kuno streawberige yang merupakan gabungan dari streaw atau "straw" dan berige atau "berry". Alasan pemberian nama ini masih tidak jelas. Beberapa spesies Lepidoptera mengambil sumber makanannya dari tumbuhan stroberi, menjadikan spesies ini hama utama tanaman stroberi
+    </string>
+
+
+    <!--link wiki-->
+    <string name="linkApel">https://id.wikipedia.org/wiki/Apel</string>
+    <string name="linkJambuair">https://id.wikipedia.org/wiki/Jambu_air</string>
+    <string name="linkManggis">https://id.wikipedia.org/wiki/Manggis</string>
+    <string name="linkDurian">https://id.wikipedia.org/wiki/Durian</string>
+    <string name="linkCeri">https://id.wikipedia.org/wiki/Ceri</string>
+    <string name="linkAlpukat">https://id.wikipedia.org/wiki/Apokat</string>
+    <string name="linkStrawberry">https://id.wikipedia.org/wiki/Stroberi_kebun</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+</resources>
